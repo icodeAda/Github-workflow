@@ -9,3 +9,9 @@ main{
     align-items: center;
     height: 100vh;
 }
+
+p{
+    text-decoration: underline;
+    letter-spacing: 30px;
+    text-align: center;
+}
